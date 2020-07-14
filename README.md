@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 ## 💬 Ask me about ...
 ## 📫 How to reach me: ...
 
-- [X] email: moisestapia741@gmail.com
-- [X] telegram: @equinockx
+[![E-Mail](https://img.shields.io/badge/--email?label=E-mail&logo=Gmail&style=social)](mailto:moisestapia@gmail.com)
+[![Chat on Telegram](https://img.shields.io/badge/--telegram?label=Telegram&logo=Telegram&style=social)](https://t.me/equinockx)
