@@ -17,6 +17,11 @@ My name is Moises Tapia I'm a Software Engineer (`DevSecOps`) and `Ethical Hacke
 <code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 
+<code><img height="50" src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-ar21.svg"></code>
+<code><img height="50" src="https://github.com/cncf/landscape/blob/master/hosted_logos/snyk.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/anchoreio/anchoreio-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/aquasec/aquasec-ar21.svg"></code>
+
 <code><img height="50" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/chefio/chefio-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"></code>
@@ -31,6 +36,13 @@ My name is Moises Tapia I'm a Software Engineer (`DevSecOps`) and `Ethical Hacke
 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+
+## More tools as ...
+
+ - [X] _Metasploit_
+ - [X] _Kali linux_
+ - [X] _Nessus_
+ - [X] _Nmap_
 
 ## 🔭 I’m currently working on ...
 
