@@ -3,6 +3,8 @@
 ## 😄 About me
 
 My name is Moises Tapia I'm a Software Engineer (`DevSecOps`) and `Ethical Hacker`
+![moises' stats](https://github-readme-stats.vercel.app/api?username=moisestapia&show_icons=true)
+
 
 ## ⚡ I work With ....
 
