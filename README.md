@@ -3,6 +3,8 @@
 ## 😄 About me
 
 My name is Moises Tapia I'm a Software Engineer (`DevSecOps`) and `Ethical Hacker`
+
+
 ![moises' stats](https://github-readme-stats.vercel.app/api?username=moisestapia&show_icons=true)
 
 
@@ -68,7 +70,16 @@ My name is Moises Tapia I'm a Software Engineer (`DevSecOps`) and `Ethical Hacke
 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+<code><img height="50" src="https://img.icons8.com/color/96/000000/kali-linux.png"></code>
+<code><img height="50" src="https://img.icons8.com/color/96/000000/centos.png"></code>
 <code><img height="50" src="https://github.com/konpa/devicon/blob/master/icons/windows8/windows8-original.svg"></code>
+
+
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Metasploit_logo_and_wordmark.png"></code>
+<code><img height="50" src="https://img.icons8.com/windows/128/000000/hackerrank.png"></code>
+<code><img height="50" src="https://cdn.icon-icons.com/icons2/2148/PNG/128/nmap_icon_132152.png"></code>
+<code><img height="50" src="https://www.maltego.com/img/maltego-logo/maltego-horizontal.png"></code>
+<code><img height="50" src="https://www.sleuthkit.org/picts/renzik_sm.jpg"></code>
 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-ar21.svg"></code>
 <code><img height="50" src="https://github.com/cncf/landscape/blob/master/hosted_logos/snyk.svg"></code>
