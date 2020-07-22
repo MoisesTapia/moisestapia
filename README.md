@@ -8,34 +8,73 @@ My name is Moises Tapia I'm a Software Engineer (`DevSecOps`) and `Ethical Hacke
 
 ## ⚡ I work With ....
 
+ <details align="center">
+    <summary align="center"><strong>Programming Languages:</strong></summary>
+     <table align="center">
+         <tr align="center">
+             <td  align = "center"><img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" border="0"><br></td>
+             <td  align = "center"><img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python" border="0"><br></td>
+             <td  align = "center"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" alt="bash" border="0"><br></td>
+         </tr>
+     </table>
+        </details>
+ <details align="center">
+    <summary align="center"><strong>Containers:</strong></summary>
+     <table align="center">
+         <tr align="center">
+             <td  align = "center"><img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="arch" border="0"><br></td>
+         </tr>
+     </table>
+        </details>
+ <details align="center">
+    <summary align="center"><strong>IaC:</strong></summary>
+     <table align="center">
+         <tr align="center">
+             <td  align = "center"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" alt="arch" border="0"><br></td>
+             <td  align = "center"><img src="https://www.vectorlogo.zone/logos/chefio/chefio-ar21.svg" border="0"><br></td>
+             <td  align = "center"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg" border="0"><br></td>
+         </tr>
+     </table>
+        </details>
+        
+ <details align="center">
+    <summary align="center"><strong>Monitoring:</strong></summary>
+     <table align="center">
+         <tr align="center">
+             <td  align = "center"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg" alt="arch" border="0"><br></td>
+             <td  align = "center"><img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-ar21.svg" border="0"><br></td>
+             <td  align = "center"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg" border="0"><br></td>
+             <td  align = "center"><img src="https://www.vectorlogo.zone/logos/influxdata/influxdata-ar21.svg" border="0"><br></td>
+         </tr>
+     </table>
+        </details>
+ <details align="center">
+    <summary align="center"><strong>Cloud:</strong></summary>
+     <table align="center">
+         <tr align="center">
+             <td  align = "center"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="arch" border="0"><br></td>
+         </tr>
+     </table>
+        </details>
+ <details align="center">
+    <summary align="center"><strong>Repos:</strong></summary>
+     <table align="center">
+         <tr align="center">
+             <td  align = "center"><img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" alt="arch" border="0"><br></td>
+             <td  align = "center"><img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="arch" border="0"><br></td>
+         </tr>
+     </table>
+        </details>
+
 <code><img height="50" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-
-<code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-
-<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img height="50" src="https://github.com/konpa/devicon/blob/master/icons/windows8/windows8-original.svg"></code>
 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-ar21.svg"></code>
 <code><img height="50" src="https://github.com/cncf/landscape/blob/master/hosted_logos/snyk.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/anchoreio/anchoreio-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/aquasec/aquasec-ar21.svg"></code>
 
-<code><img height="50" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/chefio/chefio-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"></code>
-
-<code><img height="50" src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/zabbix/zabbix-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/influxdata/influxdata-ar21.svg"></code>
-
-
-<code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-
-<code><img height="50" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 
 ## More tools as ...
 
