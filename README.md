@@ -8,7 +8,7 @@ My name is Moises Tapia I'm a Software Engineer (`DevSecOps`) and `Ethical Hacke
 
 ![moises' stats](https://github-readme-stats.vercel.app/api?username=moisestapia&show_icons=true)<br>
 
-## ⚡ Profile of Try Hack Me
+## ⚡ Try Hack Me Profile 
 
 ![tryhackme](https://github.com/MoisesTapia/tryhackmeequinockx/blob/master/equinockx1.png)<br>
 ![My Profile equinockx](https://tryhackme.com/p/equinockx)<br>
