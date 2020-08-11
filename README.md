@@ -10,7 +10,7 @@ My name is Moises Tapia I'm a Software Engineer (`DevSecOps`) and `Ethical Hacke
 
 ## ⚡ Try Hack Me Profile 
 
-![tryhackme](https://github.com/MoisesTapia/tryhackmeequinockx/blob/master/equinockx2.png)<br>
+![tryhackme](https://github.com/MoisesTapia/tryhackmeequinockx/blob/master/equinockx3.png)<br>
 ![My Profile equinockx](https://tryhackme.com/p/equinockx)<br>
  🏆 = Rank 🚪 = Rooms Completed 🎯 = Badges Earned 
 
