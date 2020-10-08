@@ -14,7 +14,7 @@ My name is Moises Tapia I'm a Software Engineer (`DevSecOps`) and `Ethical Hacke
 ![My Profile equinockx](https://tryhackme.com/p/equinockx)<br>
  🏆 = Rank 🚪 = Rooms Completed 🎯 = Badges Earned 
 
-
+<!--
 ## ⚡ I work With ....
 
  <details align="center">
@@ -99,7 +99,7 @@ My name is Moises Tapia I'm a Software Engineer (`DevSecOps`) and `Ethical Hacke
  - [X] _Kali linux_
  - [X] _Nessus_
  - [X] _Nmap_
-
+-->
 ## 🔭 I’m currently working on ...
 
 - [X] DevSecOps
