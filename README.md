@@ -3,15 +3,15 @@
 
 ## 😄 About me
 
-My name is Moises Tapia I'm a Software Engineer (`DevSecOps`) and `Ethical Hacker`
+My name is Moises Tapia I'm a Software Engineer (`DevSecOps`) and `Ethical Hacker (m4dh4tt3r)`
 
 
 ![moises' stats](https://github-readme-stats.vercel.app/api?username=moisestapia&show_icons=true)<br>
 
-## ⚡ Try Hack Me Profile 
+## ⚡ Try Hack Me Profile m4dh4tt3r
 
 ![tryhackme](https://github.com/MoisesTapia/tryhackmeequinockx/blob/master/equinockx5.png)<br>
-![My Profile equinockx](https://tryhackme.com/p/equinockx)<br>
+![My Profile m4dh4tt3r](https://tryhackme.com/p/equinockx)<br>
  🏆 = Rank 🚪 = Rooms Completed 🎯 = Badges Earned 
 
 <!--
