@@ -13,8 +13,22 @@ My name is Moises Tapia I'm a Software Engineer (`DevSecOps`) and `Ethical Hacke
 ![tryhackme](https://github.com/MoisesTapia/tryhackmeequinockx/blob/master/equinockx08.png)<br>
 ![My Profile m4dh4tt3r](https://tryhackme.com/p/equinockx)<br>
  🏆 = Rank 🚪 = Rooms Completed 🎯 = Badges Earned <br>
-![Certificate](https://github.com/MoisesTapia/tryhackmeequinockx/blob/master/THM-WMD6DTGX9B.png)
-## ID: THM-WMD6DTGX9B
+## My badges and certifications
+<img src="https://github.com/MoisesTapia/certandcredentials/blob/main/Foundations_of_Purple_Teaming_Badge.png" width="100" height="100" /> <br>
+<img src="https://github.com/MoisesTapia/certandcredentials/blob/main/CertiProf-Badge-SFPC.png" width="100" height="100" /> <img src="https://github.com/MoisesTapia/certandcredentials/blob/main/Cybersecurity-Foundation-Professional-Certificate-CSFPC.png" width="100" height="100" /> <br>
+<img src="https://github.com/MoisesTapia/certandcredentials/blob/main/chef_audit.png" width="100" height="100" />
+<img src="https://github.com/MoisesTapia/certandcredentials/blob/main/chef_automate.png" width="100" height="100" />
+<img src="https://github.com/MoisesTapia/certandcredentials/blob/main/chef_cert.png" width="100" height="100" />
+<img src="https://github.com/MoisesTapia/certandcredentials/blob/main/chef_inspec.png" width="100" height="100" />
+<img src="https://github.com/MoisesTapia/certandcredentials/blob/main/Chef_inspec_extend.png" width="100" height="100" /> <br>
+<img src="https://github.com/MoisesTapia/certandcredentials/blob/main/android.png" width="100" height="100" />
+<img src="https://github.com/MoisesTapia/certandcredentials/blob/main/introduction.png" width="100" height="100" />
+<img src="https://github.com/MoisesTapia/certandcredentials/blob/main/recon.png" width="100" height="100" /> <br>
+<img src="https://github.com/MoisesTapia/certandcredentials/blob/main/OWASP.png" width="100" height="100" />
+<img src="https://github.com/MoisesTapia/certandcredentials/blob/main/devsecops.png" width="100" height="100" />
+<img src="https://github.com/MoisesTapia/certandcredentials/blob/main/docker%20security.png" width="100" height="100" />
+
+
 <!--
 ## ⚡ I work With ....
 
@@ -110,6 +124,11 @@ My name is Moises Tapia I'm a Software Engineer (`DevSecOps`) and `Ethical Hacke
 ## 🌱 I’m currently learning ...
 - [X] Terraform
 - [X] Kubernetes
+- [x] Ansible
+- [x] Puppet
+- [ ] eJPT
+- [ ] OSWP
+- [ ] OSCP
 
 ## ⚡ Fun fact: ...
 
