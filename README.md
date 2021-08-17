@@ -23,6 +23,7 @@ My name is Moises Tapia I'm a Software Engineer (`DevSecOps`) and `Ethical Hacke
 <img src="https://github.com/MoisesTapia/certandcredentials/blob/main/Chef_inspec_extend.png" width="100" height="100" /> <br>
 <img src="https://github.com/MoisesTapia/certandcredentials/blob/main/android.png" width="100" height="100" />
 <img src="https://github.com/MoisesTapia/certandcredentials/blob/main/introduction.png" width="100" height="100" />
+<img src="https://github.com/MoisesTapia/certandcredentials/blob/main/unix.png" width="100" height="100" />
 <img src="https://github.com/MoisesTapia/certandcredentials/blob/main/recon.png" width="100" height="100" /> <br>
 <img src="https://github.com/MoisesTapia/certandcredentials/blob/main/OWASP.png" width="100" height="100" />
 <img src="https://github.com/MoisesTapia/certandcredentials/blob/main/devsecops.png" width="100" height="100" />
