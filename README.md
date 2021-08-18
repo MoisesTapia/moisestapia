@@ -14,6 +14,7 @@ My name is Moises Tapia I'm a Software Engineer (`DevSecOps`) and `Ethical Hacke
 ![My Profile m4dh4tt3r](https://tryhackme.com/p/equinockx)<br>
  🏆 = Rank 🚪 = Rooms Completed 🎯 = Badges Earned <br>
 ## My badges and certifications
+
 <img src="https://github.com/MoisesTapia/certandcredentials/blob/main/Foundations_of_Purple_Teaming_Badge.png" width="100" height="100" /> <br>
 <img src="https://github.com/MoisesTapia/certandcredentials/blob/main/CertiProf-Badge-SFPC.png" width="100" height="100" /> <img src="https://github.com/MoisesTapia/certandcredentials/blob/main/Cybersecurity-Foundation-Professional-Certificate-CSFPC.png" width="100" height="100" /> <br>
 <img src="https://github.com/MoisesTapia/certandcredentials/blob/main/chef_audit.png" width="100" height="100" />
@@ -27,7 +28,8 @@ My name is Moises Tapia I'm a Software Engineer (`DevSecOps`) and `Ethical Hacke
 <img src="https://github.com/MoisesTapia/certandcredentials/blob/main/recon.png" width="100" height="100" /> <br>
 <img src="https://github.com/MoisesTapia/certandcredentials/blob/main/OWASP.png" width="100" height="100" />
 <img src="https://github.com/MoisesTapia/certandcredentials/blob/main/devsecops.png" width="100" height="100" />
-<img src="https://github.com/MoisesTapia/certandcredentials/blob/main/docker%20security.png" width="100" height="100" />
+<img src="https://github.com/MoisesTapia/certandcredentials/blob/main/docker%20security.png" width="100" height="100" /> <br>
+<img src="https://github.com/MoisesTapia/certandcredentials/blob/main/MAS-Securityapps.png" width="130" height="100" />
 
 
 <!--
