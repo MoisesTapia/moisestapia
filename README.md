@@ -126,12 +126,19 @@ My name is Moises Tapia I'm a Software Engineer (`DevSecOps`) and `Ethical Hacke
 
 ## 🌱 I’m currently learning ...
 - [X] Terraform
-- [X] Kubernetes
+- [ ] Kubernetes
 - [x] Ansible
 - [x] Puppet
+- [ ] Cloud Security
+- [ ] Pentesting
+
+
+## 😄 My Goals ...
+- [ ] Kubernetes (CKS)
 - [ ] eJPT
 - [ ] OSWP
 - [ ] OSCP
+- [ ] CCSK
 
 ## ⚡ Fun fact: ...
 
